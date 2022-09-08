@@ -4,3 +4,4 @@ cffi==1.15.0
 Django==4.0.5
 pycparser==2.21
 sqlparse==0.4.2
+psycopg2-binary==2.9.1
